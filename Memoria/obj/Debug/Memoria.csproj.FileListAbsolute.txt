@@ -1,0 +1,9 @@
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\bin\Debug\Memoria.exe
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\bin\Debug\Memoria.pdb
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.MemoryGamefrm.resources
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.Properties.Resources.resources
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.exe
+C:\Users\danie\Downloads\Ejercicios_PED_Lab02_ReyesPineda_RP191495\Memoria\obj\Debug\Memoria.pdb
